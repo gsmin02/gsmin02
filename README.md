@@ -1,5 +1,14 @@
-## Hi there 👋
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:c6a7e0,100:7191e0&text=Welcome%20to%20gsmin02's%20GitHub%20👋&fontColor=ffffff&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gsmin02)](https://solved.ac/gsmin02/)
+
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsmin02&theme=holi&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsmin02&layout=compact&theme=holi" />
+  </p>
+</div>
 <!--
 **gsmin02/gsmin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
